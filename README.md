@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 
-- 🌱 I’m currently learning **C++ & Rust**
+- 🌱 I’m currently learning **C++, Rust, HTML, CSS & JS**
 
 - 🧑🏽‍💻 I'm programming in **Python & Kotlin**
 
